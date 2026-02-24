@@ -19,6 +19,7 @@
     - (lib) [cowmap](https://github.com/ahfuzhang/cowmap), Copy-On-Write Map (CowMap), Optimized for small data environments with very large reads and very small writes.
   - C#
     - [WIP]  [QiWa](https://github.com/ahfuzhang/QiWa), A microservice development framework implemented in C#.
+    - [CSharpDbgContainer](https://github.com/ahfuzhang/CSharpDbgContainer), A all-in-one docker image for debug C# code easier.
 * Doc / Notes
   - [code_comments](https://github.com/ahfuzhang/code_comments)，comment code with Chinese.
   - (Articles) [life_of_mine](https://github.com/ahfuzhang/life_of_mine), blogs written by me.
