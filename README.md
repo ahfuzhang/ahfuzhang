@@ -1,5 +1,8 @@
 # Repos that might be useful to you
 
+* Tools
+  - Data Serialize
+    - [BoHuLu](https://github.com/ahfuzhang/BaoHuLu): a command tool to generate protobuf+json serialization/deserialization code. Fast, zero memory allocation, supports object reuse.
 * Observability
   - Logging
     - VictoriaLogs
@@ -18,7 +21,10 @@
     - (tool) [file_line](https://github.com/ahfuzhang/file_line), Like `__FILE__/__LINE__` of C: use go generate to get source code line number at compile time.
     - (lib) [cowmap](https://github.com/ahfuzhang/cowmap), Copy-On-Write Map (CowMap), Optimized for small data environments with very large reads and very small writes.
   - C#
-    - [WIP]  [QiWa](https://github.com/ahfuzhang/QiWa), A microservice development framework implemented in C#.
+    - [QiWa](https://github.com/ahfuzhang/QiWa), A microservice development framework implemented in C#.
+      - [QiWa.Common](https://github.com/ahfuzhang/QiWa.Common): Public definition of the QiWa framework.
+      - [QiWa.framework](https://github.com/ahfuzhang/QiWa.framework): This is the foundation library for the high-performance microservice framework QiWa.
+      - [QiWa.DemoServer](https://github.com/ahfuzhang/QiWa.DemoServer): A demo server built using the QiWa framework.
     - [CSharpDbgContainer](https://github.com/ahfuzhang/CSharpDbgContainer), A all-in-one docker image for debug C# code easier.
 * Doc / Notes
   - [code_comments](https://github.com/ahfuzhang/code_comments)，comment code with Chinese.
