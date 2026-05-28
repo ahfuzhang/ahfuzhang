@@ -3,6 +3,8 @@
 * Tools
   - Data Serialize
     - [BoHuLu](https://github.com/ahfuzhang/BaoHuLu): a command tool to generate protobuf+json serialization/deserialization code. Fast, zero memory allocation, supports object reuse.
+* Books
+  - InsideVictoriaMetrics: [https://ahfuzhang.github.io/InsideVictoriaMetrics/](https://ahfuzhang.github.io/InsideVictoriaMetrics/)
 * Observability
   - Logging
     - VictoriaLogs
