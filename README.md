@@ -9,6 +9,7 @@
   - Logging
     - VictoriaLogs
       - Grafana Panel: [VictoriaLogsExplorer](https://github.com/ahfuzhang/VictoriaLogsExplorer), A grafana panel for explorer logs on VictoriaLogs.
+      - [VictoriaLogsS3Adapter](https://github.com/ahfuzhang/VictoriaLogsS3Adapter): Back up logs to S3; restore backups from S3, and access them using VictoriaLogs.
       - (tool)(rust) [log-generator](https://github.com/ahfuzhang/log-generator), to generate HAProxy format log, use to test Vector / VictoriaLogs.
       - (experimental) [VictoriaLogs_AVX2](https://github.com/ahfuzhang/VictoriaLogs_AVX2), The plan is to try using the avx2 instruction set to optimize performance based on the official VictoriaLogs version.
   - Metrics
